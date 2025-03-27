@@ -1,4 +1,4 @@
-me: Github CI
+name: Github CI
 on:
   # Set up a CI Server to execute the jobs pipeline below when 
   # a push or pull request is made at the main branch
